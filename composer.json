@@ -1,14 +1,14 @@
 {
-    "name": "gokusenz/laravel-admin",
-    "description": "laravel admin optimize by gokusenz",
+    "name": "encore/laravel-admin",
+    "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
-    "homepage": "https://github.com/gokusenz/laravel-admin",
+    "homepage": "https://github.com/z-song/laravel-admin",
     "license": "MIT",
     "authors": [
         {
-            "name": "gokusenz",
-            "email": "nattawut.ru@gmail.com"
+            "name": "zsong",
+            "email": "zosong@126.com"
         }
     ],
     "require": {
